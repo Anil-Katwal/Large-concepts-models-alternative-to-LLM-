@@ -1,8 +1,8 @@
-# LCM: A Lightweight Alternative to Large Language Models (LLMs)
+# LCM: A Large concept models Alternative to Large Language Models (LLMs)
 
 ## Overview
 
-**LCM (Lightweight Cognitive Model)** is a scalable, efficient alternative to Large Language Models (LLMs). Designed for users seeking high performance with minimal computational overhead, LCM provides the core functionalities of LLMs while emphasizing simplicity, interpretability, and resource efficiency.
+**LCM (Large Concepts Model)** is a scalable, efficient alternative to Large Language Models (LLMs). Designed for users seeking high performance with minimal computational overhead, LCM provides the core functionalities of LLMs while emphasizing simplicity, interpretability, and resource efficiency.
 
 ### Key Features
 - **Efficiency:** Operates effectively on smaller hardware compared to traditional LLMs.
